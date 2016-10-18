@@ -247,3 +247,7 @@ a {
 .btn { display: none !important; }
 
 .site-footer { display: none !important; }
+
+img  {
+max-width: 100%;
+}
