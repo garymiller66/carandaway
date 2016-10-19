@@ -2,6 +2,7 @@
 layout: page
 title: Terms and Conditions
 permalink: /termsAndConditions/
+published: true
 ---
 
 ### Welcome to carandaway Prize Draw.
@@ -34,3 +35,5 @@ permalink: /termsAndConditions/
 14. These terms and conditions shall be governed by English law and the English Courts shall have exclusive jurisdiction to hear any disputes.
 
 15. Promoter: Carandaway Ltd. Registered company no.09992443. Registered office: 1st Floor, 1 Holtspur Lane, Wooburn Green, High Wycombe, Buckinghamshire, HP10 0AA, United Kingdom
+
+16. 
