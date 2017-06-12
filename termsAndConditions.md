@@ -8,10 +8,10 @@ permalink: /termsAndConditions/
 
 1.	The prize draw opens at 00:01am GMT on Tuesday 13th June 2017.
 2.	To enter the prize-draw please complete the following steps by 23:59pm GMT on Thursday 22nd June 2017 (the “Closing Date”):
-o	a) complete the Car & Away survey by clicking on the survey link in your e-mail from Manchester Airport 
-o	b) complete the Car & Away survey on the Survey Monkey website (the “Survey”);
-o	c) Complete the survey and enter your email address; and
-o	d) click ‘done’ on the Survey webpage to submit your Survey entry.
+a) complete the Car & Away survey by clicking on the survey link in your e-mail from Manchester Airport 
+b) complete the Car & Away survey on the Survey Monkey website (the “Survey”);
+c) Complete the survey and enter your email address; and
+d) click ‘done’ on the Survey webpage to submit your Survey entry.
 3.	Entry to the prize draw is free. There is no requirement to subscribe to Car & Away; nor is there a requirement to make a purchase of any nature as a condition of entry. The competition is open to all residents of the United Kingdom aged 18 and over, excluding employees of Car & Away Ltd, their families, agencies or anyone else associated with this Prize Draw.
 4.	Entry into the prize draw is limited to one (1) entry per person so please only complete the Survey once. If you complete the Survey multiple times, you may be disqualified from the prize draw.
 5.	By completing the Survey and entering your email address, you will be deemed to have understood and accepted to be bound by these terms and conditions.
