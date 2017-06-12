@@ -6,31 +6,25 @@ permalink: /termsAndConditions/
 
 ### Welcome to carandaway Prize Draw.
 
-1. By providing feedback ("Feedback") with your name and email address you will be entered into the free prize draw (the "Prize Draw") and agree to these terms and conditions.
-
-2. This Prize Draw is open to residents of the British Isles aged 16 or over, except for employees of carandaway Ltd, their families, agencies or anyone else associated with this Prize Draw.
-
-3. The Prize Draw is run by carandaway (the “ rand").
-
-4. To enter you must complete the [survey] and provide us with your details and the Feedback.
-
-5. This Prize Draw opens at 00:00 (GMT) on [date] and closes at 23:59 (GMT) on[data]. Only one entry per person is permitted. 
-
-6. There will be three winners (the “Winners”) selected from all of the entrants that enter between the open date and closing date. The Winners will be drawn by an independent person at London Gatwick (our Airport Partner) on the first Monday following entry close date. The Winners will be notified by email within 14 days of the draw. carandaway’s decision will be final and no correspondence will be entered into. There will only be three winners.
-
-7. The prizes will be selected at random and will be one of either £100 London Gatwick shopping vouchers or £100 worth of Amazon vouchers and the Prize will be posted / emailed to the Winners.
-
-8. If any Winner fails to claim their Prize within [6 months] of being notified, carandaway reserves the right to award the Prize to an alternative winner.
-
-9. The Prize is non-transferable, non-refundable and non-negotiable. There are no cash alternatives. carandaway reserves the right to substitute the Prize for one of its choosing which has a value the same or greater than the original Prize in the event of circumstances outside of its control.
-
-10. carandaway does not accept responsibility for network, computer, hardware or software failures of any kind, which may restrict or delay the sending or receipt of your entry. Entries must not be sent in through agents or third parties.
-
-11. By entering this Prize Draw, carandaway agree that your details including your email address will not be used to keep you informed about promotions, products and news of carandaway unless you have expressed an interest in supporting our user forums. carandaway complies with the standard procedures laid down in the UK Data Protection Act to ensure that the personal information you give us is kept secure and processed fairly and lawfully. We will not share your information with any third parties for Marketing purposes. carandaway will pass your details onto [survey monkey], our third party agent, who will use the information purely for the purposes of the draw. Survey Monkey will not use your details for their marketing purposes and will not pass your information on to any third parties for marketing purposes. By entering the Prize Draw you consent to us using your information as set out above and in accordance with our Privacy Policy. For further details please see our online Privacy Policy.
-
-12. The Winner’s first name, surname and county will be available for one month after the draw by sending a Stamped Addressed Envelope to: “ carandaway airport survey prize draw“  at the address below.
-
-13. carandaway reserves the right to (i) cancel this promotion, (ii) cancel or refuse any individual’s entry and (iii) amend these terms and conditions (and will use reasonable endeavours to notify changes to entrants and potential entrants). 
-14. These terms and conditions shall be governed by English law and the English Courts shall have exclusive jurisdiction to hear any disputes.
-
-15. Promoter: Carandaway Ltd. Registered company no.09992443. Registered office: 1st Floor, 1 Holtspur Lane, Wooburn Green, High Wycombe, Buckinghamshire, HP10 0AA, United Kingdom
+1.	The prize draw opens at 00:01am GMT on Tuesday 13th June 2017.
+2.	To enter the prize-draw please complete the following steps by 23:59pm GMT on Thursday 22nd June 2017 (the “Closing Date”):
+o	a) complete the Car & Away survey by clicking on the survey link in your e-mail from Manchester Airport 
+o	b) complete the Car & Away survey on the Survey Monkey website (the “Survey”);
+o	c) Complete the survey and enter your email address; and
+o	d) click ‘done’ on the Survey webpage to submit your Survey entry.
+3.	Entry to the prize draw is free. There is no requirement to subscribe to Car & Away; nor is there a requirement to make a purchase of any nature as a condition of entry. The competition is open to all residents of the United Kingdom aged 18 and over, excluding employees of Car & Away Ltd, their families, agencies or anyone else associated with this Prize Draw.
+4.	Entry into the prize draw is limited to one (1) entry per person so please only complete the Survey once. If you complete the Survey multiple times, you may be disqualified from the prize draw.
+5.	By completing the Survey and entering your email address, you will be deemed to have understood and accepted to be bound by these terms and conditions.
+6.	The prize for each winner is either a Manchester Airport Shopping Voucher to the value of £100 or one of two Amazon Voucher(s) to the value of £100 each (the “Prize”). No cash alternatives are available. Car & Away reserves the right to substitute the Prize (or any part of it) for alternative prizes of equivalent or greater monetary value if this is necessary for reasons beyond its reasonable control.
+7.	There will be three (3) Prize winners. The winners will be selected at random by computer from all eligible entries received by Car & Away by the Closing Date.
+8.	The winner will be announced on this webpage at 10:00am GMT on Tues 11th July 2017 (the “Prize Draw Date”). You agree that if you are selected as the winner, we may disclose your name and on this webpage for this purpose.
+9.	As well as generally announcing the winners in accordance with clause 8 above, we will email the winners directly letting them know that they have been selected as a winner and asking them to provide their full name and postal address, to which the Prize will be sent. The winner will be required to provide their postal address before their Prize can be released.
+10.	Each Prize will be sent to the winners at our expense, by recorded delivery to the postal address provided within 30 days of each winner providing his/her address.
+11.	If we have not heard from a winner, or if a winner fails to provide his/her postal address within thirty (30) days of the Prize Draw Date, we reserve the right, at our absolute discretion, to consider that winner to have forfeited his/her Prize and to withdraw the Prize entitlement of that person.
+12.	Car & Away takes no responsibility for entries that are delayed or lost due to technical reasons or otherwise.
+13.	Any personal data that we collect in connection with this prize draw will be processed in accordance with the Data Protection Act 1998 and with our privacy policy (a copy of which can be viewed at http://carandaway.com/privacyPolicy/ ) and will only be used to administer this promotion, unless you have also checked the opt-in box within the Survey, in which case we may email you about baby-related products and services.
+14.	Car & Away reserves the right to withdraw or amend either the prize draw or these terms and conditions at any time, without notice if this is necessary for reasons beyond its reasonable control.
+15.	The decision of Car & Away is final and no correspondence will be entered into. Entries that do not comply in full with these terms and conditions will be invalid and disqualified.
+16.	You agree that if you are a winner, Car & Away will make available on request your name only as evidence of your winning.
+17.	These terms and conditions shall be governed by and construed in accordance with English law and any disputes arising from these terms and conditions shall be subject to the exclusive jurisdiction of the Courts of England and Wales.
+18.	The promoter of the prize draw is Carandaway Ltd. Registered company no.09992443. Registered office: 1st Floor, 1 Holtspur Lane, Wooburn Green, High Wycombe, Buckinghamshire, HP10 0AA, United Kingdom
